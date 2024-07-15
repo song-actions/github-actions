@@ -1,4 +1,4 @@
-name: issue-workflow
+name: issue-workflow-push
 on:
   issues:
     types: [opened]
