@@ -1,4 +1,4 @@
-name: push-workflow
+name: push-workflow-path-not
 on: push
 
 jobs:
