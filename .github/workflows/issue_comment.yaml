@@ -1,4 +1,4 @@
-name: issue-comment-workflow
+name: issue-comment-workflow-1
 on: issue_comment
 
 jobs:
